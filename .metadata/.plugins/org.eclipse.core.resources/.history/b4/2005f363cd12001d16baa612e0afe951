@@ -1,0 +1,8 @@
+com\sheila\springproject\client\UsuarioListener.class
+com\sheila\springproject\model\Usuario.class
+com\sheila\springproject\controller\UsuarioController.class
+com\sheila\springproject\config\RabbitMQConfig.class
+com\sheila\springproject\dto\UsuarioDto.class
+com\sheila\springproject\repository\UsuarioRepository.class
+com\sheila\springproject\service\UsuarioService.class
+com\sheila\springproject\SpringProjectApplication.class
