@@ -1,7 +1,8 @@
 version: "3.2"
 services:
 
-  app:
+  filaacessoapi:
+    container_name: fila-acesso
     build: .
     ports:
       - 8081:8081
