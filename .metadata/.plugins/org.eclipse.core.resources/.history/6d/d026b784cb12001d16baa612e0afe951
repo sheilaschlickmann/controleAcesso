@@ -1,4 +1,0 @@
-FROM openjdk
-EXPOSE 8080
-ADD target/spring-project-0.0.1-SNAPSHOT.jar transactions-app.jar
-ENTRYPOINT ["java", "-jar", "/transactions-app.jar"]
